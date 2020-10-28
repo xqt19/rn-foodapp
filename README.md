@@ -19,7 +19,7 @@ https://udemy.com/course/the-complete-react-native-and-redux-course/learn/lectur
 
 ```
 gitignored secrets required:
-- `src/api/yelp.js` (Bearer token)
+⭐ src/api/yelp.js (Bearer token)
 ```
 
 Happy `hacking` !
