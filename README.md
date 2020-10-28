@@ -17,10 +17,10 @@ https://udemy.com/course/the-complete-react-native-and-redux-course/learn/lectur
 - Expo's vector-icons directory [here](https://expo.github.io/vector-icons)
 - Yelp API Documentation [here](https://www.yelp.com/developers/documentation/v3/business)
 
-
+```
 gitignored secrets required:
-`src/api/yelp.js` (Bearer token)
-
+- `src/api/yelp.js` (Bearer token)
+```
 
 Happy `hacking` !
 
