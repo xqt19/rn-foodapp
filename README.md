@@ -10,20 +10,20 @@ https://udemy.com/course/the-complete-react-native-and-redux-course/learn/lectur
 `npm expo-cli init rn-foodapp --npm`
 
 
-✔️ Also checkout the guide to markups [here](https://guides.github.com/features/mastering-markdown/)
-✔️ Fix dependencies issues [here](https://stackoverflow.com/questions/59473715/unable-to-resolve-module-react-native-screen) and also [here](https://stackoverflow.com/questions/57817573/createstacknavigator-has-been-moved-to-react-navigation-stack)
-✔️ Guide on deleting a git commit [here](https://www.clock.co.uk/insight/deleting-a-git-commit)
-
-
-💡 Expo's vector-icons directory [here](https://expo.github.io/vector-icons)
-💡 Yelp API Documentation [here](https://www.yelp.com/developers/documentation/v3/business)
-
-
+✔️ Also checkout the guide to markups [here](https://guides.github.com/features/mastering-markdown/)  
+✔️ Fix dependencies issues [here](https://stackoverflow.com/questions/59473715/unable-to-resolve-module-react-native-screen) and also [here](https://stackoverflow.com/questions/57817573/createstacknavigator-has-been-moved-to-react-navigation-stack)  
+✔️ Guide on deleting a git commit [here](https://www.clock.co.uk/insight/deleting-a-git-commit)  
+  
+  
+💡 Expo's vector-icons directory [here](https://expo.github.io/vector-icons)  
+💡 Yelp API Documentation [here](https://www.yelp.com/developers/documentation/v3/business)  
+  
+  
 ```
 gitignored secrets required:
 ⭐ src/api/yelp.js (Bearer token)
 ```
-
-Happy `hacking` !
-
+  
+Happy `hacking` !  
+  
 - XQT,  `El Otoño de La Mariposa` (28 October 2020)
