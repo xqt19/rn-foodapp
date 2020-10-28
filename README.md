@@ -23,7 +23,8 @@ https://udemy.com/course/the-complete-react-native-and-redux-course/learn/lectur
 gitignored secrets required:
 ⭐ src/api/yelp.js (Bearer token)
 ```
+
   
 Happy `hacking` !  
   
-- XQT,  `El Otoño de La Mariposa` (28 October 2020)
+🍁 XQT,  `El Otoño de La Mariposa` (28 October 2020)
