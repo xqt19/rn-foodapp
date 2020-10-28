@@ -5,6 +5,7 @@ export default () => {
     const [results, setResults] = useState([]) //a state to hold the yelp API data
     const [errorMessage, setErrorMessage] = useState('')
     const [searchFlag, setSearchFlag] = useState(false)
+    const [currentTerm, setCurrentTerm] = useState('')
     const searchApi = async (searchTerm) => {
         // console.log("making an API call...")
         try {
@@ -18,6 +19,7 @@ export default () => {
             setResults(response.data.businesses)
             setErrorMessage('')
             setSearchFlag(true)
+            setCurrentTerm(searchTerm)
         }
         catch(err){
             setErrorMessage('Something Went Wrong!')
@@ -30,5 +32,5 @@ export default () => {
         searchApi('pasta')
     }, []) // this means this fuction will only run once, when the component mounts
 
-    return [searchApi, results, errorMessage, searchFlag]
+    return [searchApi, results, errorMessage, searchFlag, currentTerm]
 }
