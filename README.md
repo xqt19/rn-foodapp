@@ -13,10 +13,10 @@ https://udemy.com/course/the-complete-react-native-and-redux-course/learn/lectur
 - Fix dependencies issues [here](https://stackoverflow.com/questions/59473715/unable-to-resolve-module-react-native-screen) and also [here](https://stackoverflow.com/questions/57817573/createstacknavigator-has-been-moved-to-react-navigation-stack)
 
 
-```
+`
 - Expo's vector-icons directory [here](https://expo.github.io/vector-icons)
 - Yelp API Documentation [here](https://www.yelp.com/developers/documentation/v3/business)
-```
+`
 
 Happy `hacking` !
 
