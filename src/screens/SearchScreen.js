@@ -4,6 +4,7 @@ import SearchBar from '../components/SearchBar'
 import useRestaurants from '../hooks/useRestaurants'
 import ResultsList from '../components/ResultsList'
 
+
 const SearchScreen = () => {
     const [term, setTerm] = useState('')
     const [searchApi, results, errorMessage, searchFlag, currentTerm] = useRestaurants()
